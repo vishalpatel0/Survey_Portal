@@ -1,0 +1,2 @@
+Set project in localhost/test/  folder.
+
